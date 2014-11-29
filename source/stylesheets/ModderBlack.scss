@@ -5,6 +5,7 @@ body {
   line-height: 1.7;
   background: url(/images/dark_geometric.png);
   text-shadow: 1px 1px 1px black;
+
   >header h1 {
     background-color: black;
     margin: 0;
@@ -17,6 +18,20 @@ body {
     a:hover {
       color: white;
       opacity: 0.8;
+    }
+  }
+
+  >footer {
+    background-color: black;
+    opacity: 0.5;
+    margin-top: 10em;
+    text-align: right;
+    i.fa {
+      padding: 0.5em;
+      font-size: 32px;
+    }
+    .copyright {
+      margin-right: 2em;
     }
   }
 }
