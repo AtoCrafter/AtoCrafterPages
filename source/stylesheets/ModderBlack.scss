@@ -1,0 +1,31 @@
+body {
+  color: #BBB;
+  font-size: 16px;
+  font-family: "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+  line-height: 1.7;
+  background: url(/images/dark_geometric.png);
+  text-shadow: 1px 1px 1px black;
+}
+
+h1 {
+  margin: 1.5em;
+}
+
+main {
+  width: 60em;
+  max-width: 90%;
+  margin: auto;
+}
+
+a {
+  color: lighten(blue, 30%);
+  transition: color 0.2s linear;
+  text-decoration: none;
+}
+a:hover {
+  color: lighten(blue, 40%);
+}
+
+::selection {
+  background-color: rgba(255, 255, 200, 0.2);
+}
