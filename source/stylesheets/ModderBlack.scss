@@ -5,6 +5,20 @@ body {
   line-height: 1.7;
   background: url(/images/dark_geometric.png);
   text-shadow: 1px 1px 1px black;
+  >header h1 {
+    background-color: black;
+    margin: 0;
+    padding: 0.2em 1em;
+    a {
+      color: white;
+      opacity: 0.3;
+      transition: opacity 0.2s linear;
+    }
+    a:hover {
+      color: white;
+      opacity: 0.8;
+    }
+  }
 }
 
 h1 {
