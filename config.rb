@@ -54,7 +54,7 @@
 # set :images_dir, 'img'
 
 # Build-specific configuration
-configure :build do
+# configure :build do
   # For example, change the Compass output style for deployment
   # activate :minify_css
 
@@ -69,4 +69,11 @@ configure :build do
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
+# end
+
+activate :deploy do |deploy|
+  deploy.method = :git
+  deploy.remote = 'git@atocrafter.github.com:AtoCrafter/atocrafter.github.io.git'
+  deploy.branch = 'master'
+  deploy.strategy = :force_push
 end
