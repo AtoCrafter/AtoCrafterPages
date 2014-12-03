@@ -43,10 +43,6 @@ title: Quick Measure
 
 [こちらから](https://github.com/AtoCrafter/QuickMeasure/blob/master/ChangeLog.txt)
 
-### 過去のバージョン
-
-- [1.1.0 \(for Minecraft 1.4.7\)](release/QuickMeasure.1.1.0.Universal.forMC1.4.7.zip)
-
 
 [release_download]: https://copy.com/bquCwEH7KrtX
 [dev_download]: https://copy.com/sOsfWpLI7bgU

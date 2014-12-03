@@ -168,13 +168,6 @@ Eject ボタンで表示されているチェスト内の全てのアイテム�
 
 [こちらから](https://github.com/AtoCrafter/AccessChest/blob/master/ChangeLog.txt)
 
-### 過去のバージョン
-
-- [1.1.0 \(for Minecraft 1.2.5\)](release/AccessChest.1.1.0.zip)
-- [2.1.1 \(for Minecraft 1.3.2\)](release/AccessChest.2.1.1.Universal.forMC1.3.2.zip)
-- [2.2.6 \(for Minecraft 1.4.7\)](release/AccessChest.2.2.6.Universal.forMC1.4.7.zip)
-- [2.3.1 \(for Minecraft 1.5.2\)](release/AccessChest.2.3.1.Universal.forMC1.5.2.zip)
-
 ## 謝辞
 
 テクスチャを提供して頂きました the M さん、誠にありがとうございます。

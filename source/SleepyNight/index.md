@@ -36,8 +36,7 @@ title: Sleepy Night
 
 ### 過去のバージョン
 
-- [1.1.1 \(for Minecraft 1.4.7\)](release/SleepyNight.1.1.1.Universal.forMC1.4.7.zip)
-- [1.2.0 \(for Minecraft 1.6.2\)](https://copy.com/JVlQJSrQXGGN)
+- [こちらから](https://copy.com/1xr1KxR8NIS9KDQV)
 
 
 [release_download]: https://drone.io/github.com/AtoCrafter/SleepyNight/files

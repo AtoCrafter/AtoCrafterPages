@@ -77,10 +77,6 @@ title: Wireless Light
 
 [こちらから](https://github.com/AtoCrafter/WirelessLight/blob/master/ChangeLog.txt)
 
-### 過去のバージョン
-
-- [1.1.0 \(for Minecraft 1.4.7\)](release/WirelessLight.1.1.0.Universal.forMC1.4.7.zip)
-
 
 [release_download]: https://copy.com/vWmwThJO2tWW
 [dev_download]: https://copy.com/YEi6EUK8Ak2q
